@@ -19,5 +19,6 @@ target 'TestingPurposes' do
 
 
 pod 'Neon'
+pod 'OpenTok'
 
 end
