@@ -108,7 +108,7 @@ class ListAppointmentVC: UIViewController, UIScrollViewDelegate {
     
     func setUpScrollViewNextPage() {
         let width = self.apptScrollView.frame.width/pages!
-        
+        let height = self.apptScrollView.frame.height
     }
     
     /*
